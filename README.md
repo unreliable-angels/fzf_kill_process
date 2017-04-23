@@ -18,7 +18,7 @@ $ fisher unreliable-angels/fzf_kill_process
 function fish_user_key_bindings
     ...
 
-    bind \ek peco_kill_process
+    bind \ek fzf_kill_process
 
     ...
 end
